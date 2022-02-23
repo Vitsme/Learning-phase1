@@ -1,0 +1,14 @@
+package mypackage;
+public class MyClass 
+{
+	public static void main(String[] args) 
+	{
+				int a=6;
+				int b=58;
+				int c=a+b;
+				float data =5.12345672f;
+				System.out.println(c);
+				System.out.println("Hello World");
+				System.out.println("data");
+	}
+}

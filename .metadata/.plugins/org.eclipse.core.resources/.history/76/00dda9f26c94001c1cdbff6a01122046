@@ -1,0 +1,22 @@
+package package2;
+
+//It will import on right click if we added it on the extends in public class
+import package1.MyPackage1BaseClass;
+//derived class
+public class MyPackage2DerivedClass extends MyPackage1BaseClass
+{
+	//Other Package Derived class
+public void myPackage2DerivedClass()
+{
+	
+}
+}
+//other class
+class MyPackage2OtherClass
+{
+	//other package other class 
+	public void myPackage2OtherClass()
+	{
+		
+	}
+}
